@@ -1,0 +1,11 @@
+name: Yahoo! Pipes
+id:   YahooPipes
+key:  yahoopipes
+author_name: Alfasado Inc.
+author_link: http://alfasado.net/
+version: 0.1
+l10n_class: YahooPipes::L10N
+description: <__trans phrase="Rewire text using Yahoo! Pipes.">
+tags:
+    function:
+        YahooPipes: $yahoopipes::YahooPipes::Plugin::_YahooPipes
